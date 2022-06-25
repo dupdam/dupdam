@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @dupdam
+- 👀 I’m interested in the "IT world :)"
+- 🌱 I’m currently learning Docker 
+- 💞️ I’m looking to collaborate on Remote Software Engineering 
+- 📫 How to reach me - email: negolaur@gmail.com
